@@ -1,6 +1,6 @@
 # Killfeed
 
-![GitHub all releases](https://img.shields.io/github/downloads/SakuraaDevelopment/Killfeed/total?style=plastic)
+![GitHub all releases](https://img.shields.io/github/downloads/SakuraaDevelopment/Killfeed/total?style=plastic) 
 
 simple unity gui that shows tag events
 
