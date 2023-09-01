@@ -1,4 +1,4 @@
-# Killfeed
+# Killfeed but for GTC casting
 
 simple unity gui that shows tag events
 
