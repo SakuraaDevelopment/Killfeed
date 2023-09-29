@@ -388,8 +388,3 @@ FodyWeavers.xsd
 # JetBrains Rider
 .idea/
 *.sln.iml
-*.props
-*.targets
-*.csproj
-*.ps1
-Sakuraa-Killfeed.sln
